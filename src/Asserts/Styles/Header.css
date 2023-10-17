@@ -1,0 +1,21 @@
+
+.img-thumbnail {
+    border: none !important;
+    
+}
+.img-thumbnail img{
+    mix-blend-mode: color-dodge !important;
+}
+.toggler{
+    border: none !important;
+}
+.all-btn{
+    border: 1px solid rgb(88, 88, 88,0.4);
+    border-radius: 3px 0px 0px 3px !important;
+    border-right: none !important;
+}
+.all-btn1{
+    border: 1px solid rgb(88, 88, 88,0.4);
+    border-radius: 0px 0px 0px 0px !important;
+    border-right: none !important;
+}

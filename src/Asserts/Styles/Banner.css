@@ -1,0 +1,14 @@
+
+.banner-box{
+    width: 30%;
+    height: auto;
+    padding: 3% 2%;
+    color: whitesmoke;
+    background-color: rgb(17, 17, 17,0.5);
+}
+.banner-box>h2{
+    font-size: calc(0.8vw + 1rem) !important;
+}
+.banner-box>p{
+    font-size: calc(0.6vw + 0.5rem) !important;
+}
